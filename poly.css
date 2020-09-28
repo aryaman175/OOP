@@ -1,0 +1,88 @@
+body
+{
+  background-color:rgb(255,218,185);
+}
+
+h3
+{
+  font-family: cursive;
+}
+
+button,h2
+{
+  position: absolute;
+  font-size: 30px;
+  left: 850px;
+}
+h2
+{
+  top:150px;
+}
+
+
+
+#street
+{
+   top: 225px;
+}
+
+#mall
+{
+   top: 300px;
+}
+
+#order
+{
+   top: 500px;
+}
+
+#code
+{
+   top: 620px;
+}
+
+#next
+{
+   top: 225px;
+}
+
+#prev
+{
+  top: 275px;
+}
+
+#info
+{
+   top: 500px;
+}
+
+p
+{
+  position: absolute;
+  left:500px;
+  top:500px;
+}
+
+.on
+{
+color: #341bf5;
+}
+
+.active
+{
+  color: #2d7300;
+}
+
+#poly,#abst
+{
+  position: absolute;
+  left:1050px;
+}
+#poly
+{
+  top:50px;
+}
+#abst
+{
+  top:100px;
+}
