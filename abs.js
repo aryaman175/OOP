@@ -1,6 +1,5 @@
 
 let absParts =[]
-let count =-1;
 for(let i=0;i<3;i++)
 {
   absParts[i]= [];
